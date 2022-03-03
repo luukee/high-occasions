@@ -466,14 +466,14 @@
               "link": "shopify:\/\/collections\/celebrate-collection"
             }
           },
-          "1536728271347-3": {
+          "1536728271347-1": {
             "type": "block_slider_columns",
             "settings": {
-              "image": "shopify:\/\/shop_images\/rsz_tou.jpg",
+              "image": "shopify:\/\/shop_images\/rsz_frequentflyer.jpg",
               "title": "",
-              "text": "Beautiful packaged confections",
-              "button_name": "Order Now",
-              "link": "\/collections\/thinking-of-you\/products\/forbidden-fruit"
+              "text": "Coming Soon!",
+              "button_name": "",
+              "link": ""
             }
           },
           "1536728271347-2": {
@@ -485,23 +485,12 @@
               "button_name": "",
               "link": ""
             }
-          },
-          "1536728271347-1": {
-            "type": "block_slider_columns",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/rsz_frequentflyer.jpg",
-              "title": "",
-              "text": "Coming Soon!",
-              "button_name": "",
-              "link": ""
-            }
           }
         },
         "block_order": [
           "1536728271347-0",
-          "1536728271347-3",
-          "1536728271347-2",
-          "1536728271347-1"
+          "1536728271347-1",
+          "1536728271347-2"
         ],
         "settings": {
           "margin": "0 0 8em 0",
