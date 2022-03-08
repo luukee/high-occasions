@@ -728,7 +728,7 @@
         "settings": {
           "css_animations": "2",
           "margin": "",
-          "use_width": "2",
+          "use_width": "1",
           "use_arrows": false,
           "use_dots": true,
           "use_autoplay": false,
