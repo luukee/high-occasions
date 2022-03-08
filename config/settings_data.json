@@ -688,6 +688,93 @@
           "subtitle": "",
           "text_form": "<h2>High,<\/h2><h4>Let's connect.<\/h4><br>Stay up to date with all of our High Occasions"
         }
+      },
+      "g_product_split": {
+        "type": "g_product_split",
+        "blocks": {
+          "16cc44bf-2b1c-4994-a151-3095031dc1e4": {
+            "type": "countdown",
+            "settings": {
+              "style": "1",
+              "image": "shopify:\/\/shop_images\/green.jpg",
+              "title": "HEBES STORE",
+              "heading": "Deal of the day",
+              "price": "$120.00",
+              "text": "From Hebes Table Book",
+              "end_date_countdown": "2019\/10\/29",
+              "button_name": "Shop Now",
+              "button_link": ""
+            }
+          },
+          "3cda8f55-9380-435f-827a-9c3a14ebaec6": {
+            "type": "countdown",
+            "settings": {
+              "style": "1",
+              "image": "shopify:\/\/shop_images\/purple.jpg",
+              "title": "HEBES STORE",
+              "heading": "Deal of the day",
+              "price": "$120.00",
+              "text": "From Hebes Table Book",
+              "end_date_countdown": "2019\/10\/29",
+              "button_name": "Shop Now",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "16cc44bf-2b1c-4994-a151-3095031dc1e4",
+          "3cda8f55-9380-435f-827a-9c3a14ebaec6"
+        ],
+        "settings": {
+          "css_animations": "2",
+          "margin": "",
+          "use_width": "2",
+          "use_arrows": false,
+          "use_dots": true,
+          "use_autoplay": false,
+          "use_loop": false
+        }
+      },
+      "g_product": {
+        "type": "g_product",
+        "blocks": {
+          "e5f8e183-9a48-4d7a-bcf1-9c8c7f8763e1": {
+            "type": "collection_tab",
+            "settings": {
+              "title": "Title Tabs",
+              "id_product": "globo-good-theme",
+              "items_show": "8"
+            }
+          },
+          "4527df86-98f9-4e5d-82ed-c074fd554aed": {
+            "type": "collection_tab",
+            "settings": {
+              "title": "Title Tabs",
+              "id_product": "cupcakes",
+              "items_show": "8"
+            }
+          }
+        },
+        "block_order": [
+          "e5f8e183-9a48-4d7a-bcf1-9c8c7f8763e1",
+          "4527df86-98f9-4e5d-82ed-c074fd554aed"
+        ],
+        "settings": {
+          "css_animations": "1",
+          "margin": "",
+          "width": "1",
+          "style": "1",
+          "title": "",
+          "title_font_size": "",
+          "subtitle": "",
+          "view_all_products": "",
+          "link_view_all_products": "",
+          "sidetoshow": "4",
+          "use_loop": false,
+          "use_autoplay": false,
+          "use_dots": false,
+          "use_arrow": false
+        }
       }
     },
     "content_for_index": [
