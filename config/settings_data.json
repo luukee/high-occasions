@@ -695,6 +695,7 @@
           "16cc44bf-2b1c-4994-a151-3095031dc1e4": {
             "type": "countdown",
             "settings": {
+              "color_light": false,
               "style": "1",
               "image": "shopify:\/\/shop_images\/green.jpg",
               "title": "HIGH OCCASIONS",
@@ -709,6 +710,7 @@
           "3cda8f55-9380-435f-827a-9c3a14ebaec6": {
             "type": "countdown",
             "settings": {
+              "color_light": true,
               "style": "1",
               "image": "shopify:\/\/shop_images\/purple.jpg",
               "title": "HIGH OCCASIONS",
@@ -730,7 +732,7 @@
           "margin": "",
           "use_width": "1",
           "use_arrows": false,
-          "use_dots": true,
+          "use_dots": false,
           "use_autoplay": false,
           "use_loop": false
         }
