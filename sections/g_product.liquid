@@ -161,26 +161,6 @@
                             </span>
                             {% endif %}
                           </span>
-                          <div class="top-description">
-                            <ul class="nav nav-tabs">
-                              {%- if product.metafields.meta.infoguide -%}
-                              <li class="active">
-                                <a href="#info-guide" data-toggle="tab">{{ 'products.product.info_guide' | t }}</a>
-                              </li>
-                              {%- endif -%}
-                              {%- if product.metafields.meta.shipping -%}
-                              <li>
-                                <a href="#shipping" data-toggle="tab">{{ 'products.product.shipping' | t }}</a>
-                              </li>
-                              {%- endif -%}
-                              {%- if product.metafields.meta.return -%}
-                              <li>
-                                <a href="#return" data-toggle="tab">{{ 'products.product.return' | t }}</a>
-                              </li>
-                              {%- endif -%}
-                            </ul>
-
-                          </div>
                           {% include 'product-limited' %}
                           <form action="/cart/add" method="post" enctype="multipart/form-data" class="variations_form cart {{ class_products_variants }}">
                             {% case settings.style_products_variants %}
