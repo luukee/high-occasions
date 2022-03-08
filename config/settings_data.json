@@ -697,13 +697,13 @@
             "settings": {
               "style": "1",
               "image": "shopify:\/\/shop_images\/green.jpg",
-              "title": "HEBES STORE",
-              "heading": "Deal of the day",
-              "price": "$120.00",
-              "text": "From Hebes Table Book",
+              "title": "HIGH OCCASIONS",
+              "heading": "",
+              "price": "",
+              "text": "FREQUENT FLYER",
               "end_date_countdown": "2019\/10\/29",
-              "button_name": "Shop Now",
-              "button_link": ""
+              "button_name": "View Frequent Flyer",
+              "button_link": "#GreenBox"
             }
           },
           "3cda8f55-9380-435f-827a-9c3a14ebaec6": {
