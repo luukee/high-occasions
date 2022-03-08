@@ -711,13 +711,13 @@
             "settings": {
               "style": "1",
               "image": "shopify:\/\/shop_images\/purple.jpg",
-              "title": "HEBES STORE",
-              "heading": "Deal of the day",
-              "price": "$120.00",
-              "text": "From Hebes Table Book",
+              "title": "HIGH OCCASIONS",
+              "heading": "",
+              "price": "",
+              "text": "GETAWAY",
               "end_date_countdown": "2019\/10\/29",
-              "button_name": "Shop Now",
-              "button_link": ""
+              "button_name": "View Getaway",
+              "button_link": "#CloudCake"
             }
           }
         },
