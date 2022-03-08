@@ -695,7 +695,7 @@
           "16cc44bf-2b1c-4994-a151-3095031dc1e4": {
             "type": "countdown",
             "settings": {
-              "color_light": false,
+              "color_light": true,
               "style": "1",
               "image": "shopify:\/\/shop_images\/green.jpg",
               "title": "HIGH OCCASIONS",
