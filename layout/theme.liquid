@@ -91,7 +91,11 @@
   <div class="wrapper-page">
     {%- if gAdmin -%}<a href="#" class="g_update_theme ui-button ui-button--primary">Select home page layout</a>{%- endif -%}
     <div class="page">
-    {% include 'g-header' %}
+      {% unless page.handle == 'giftme' %}
+        
+        {% include 'g-header' %}
+    
+      {% endunless %}
      
       <div class="page-container" id="PageContainer">
 
