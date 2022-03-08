@@ -732,7 +732,7 @@
           "margin": "",
           "use_width": "1",
           "use_arrows": false,
-          "use_dots": true,
+          "use_dots": false,
           "use_autoplay": false,
           "use_loop": false
         }
