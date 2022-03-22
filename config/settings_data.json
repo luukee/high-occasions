@@ -695,7 +695,7 @@
           "16cc44bf-2b1c-4994-a151-3095031dc1e4": {
             "type": "countdown",
             "settings": {
-              "color_light": true,
+              "color_light": false,
               "style": "1",
               "image": "shopify:\/\/shop_images\/sunset-sherbert.jpg",
               "title": "HIGH OCCASIONS",
