@@ -40,7 +40,7 @@
         {% assign color = ' color-light' %}
       {% endif %}
       <div class="item-product-countdown cover-background lazy" {% if block.settings.image != blank %}data-src="{{ block.settings.image | img_url: '1920x', format: 'pjpg' | split:'?' | first }}"{% endif %}>
-        <div class="container{{ color }}">
+        <div class="container{{ color }} g_product_split">
 
           {%- case block.settings.style -%}
           {% when '1' %}
