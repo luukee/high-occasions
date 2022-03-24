@@ -104,7 +104,11 @@
           {% endfor %}
         </tbody>
       </table>
-		{% include 'snippet-local-delivery-cart' %}
+		{%- comment -%}{% include 'snippet-local-delivery-cart' %}{%- endcomment -%}
+        <div id="order-delivery">
+            <h3>{{ section.settings.cart_text_title }}</h3>
+            {{ section.settings.cart_text }}
+        </div>
       <footer class="cart__footer">
         <div class="grid">
           {% if section.settings.cart_notes_enable %}
@@ -156,6 +160,17 @@
         "id": "cart_notes_enable",
         "label": "Enable cart notes",
         "default": false
+      },
+      {
+          "type": "text",
+          "id": "cart_text_title",
+          "label": "Text title",
+          "default": "Local Order Delivery"
+      },
+      {
+          "type": "richtext",
+          "id": "cart_text",
+          "label": "Cart text"
       }
     ]
   }
