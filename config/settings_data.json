@@ -355,7 +355,9 @@
       "cart-template": {
         "type": "cart-template",
         "settings": {
-          "cart_notes_enable": true
+          "cart_notes_enable": true,
+          "cart_text_title": "Local Order Delivery",
+          "cart_text": "<p>One or more of the items in your cart are available for local delivery.<\/p><p><strong>Pre-Order Information<\/strong><br\/>This order will confirm & hold your gift’s availability for valid retail ‘gift-drops’<br\/><\/p><p><strong>Please keep in mind the following<\/strong><br\/>• To ensure your gifts are made-to-order we require pre-order confirmation.<br\/>• ‘Gift Drop’ information can be found on our Instagram highlights here<br\/>• Local deliveries are available in Los Angeles County area. Please click here for more information.<\/p>"
         }
       },
       "g_custom_color": {
