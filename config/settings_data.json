@@ -705,8 +705,8 @@
               "price": "",
               "text": "SHERBET SUNSET",
               "end_date_countdown": "2019\/10\/29",
-              "button_name": "View Sherbet Sunset",
-              "button_link": "#GreenBox"
+              "button_name": "RESERVE Sunset Sherbet",
+              "button_link": "shopify:\/\/products\/cloudcakes-sunset-sherbet"
             }
           },
           "3cda8f55-9380-435f-827a-9c3a14ebaec6": {
@@ -720,8 +720,8 @@
               "price": "",
               "text": "STAWBERRY COUGH",
               "end_date_countdown": "2019\/10\/29",
-              "button_name": "View Strawberry Cough",
-              "button_link": "#CloudCake"
+              "button_name": "Reserve Strawberry Cough",
+              "button_link": "shopify:\/\/products\/cloudcakes-strawberry-cough"
             }
           }
         },
@@ -745,15 +745,15 @@
           "e5f8e183-9a48-4d7a-bcf1-9c8c7f8763e1": {
             "type": "collection_tab",
             "settings": {
-              "title": "Title Tabs",
+              "title": "Sunset Sherbet",
               "id_product": "cloudcakes-sunset-sherbet",
-              "items_show": "1"
+              "items_show": "8"
             }
           },
           "4527df86-98f9-4e5d-82ed-c074fd554aed": {
             "type": "collection_tab",
             "settings": {
-              "title": "Title Tabs",
+              "title": "Strawberry Cough",
               "id_product": "cloudcakes-strawberry-cough",
               "items_show": "8"
             }
