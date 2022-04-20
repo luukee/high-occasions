@@ -746,15 +746,15 @@
             "type": "collection_tab",
             "settings": {
               "title": "Title Tabs",
-              "id_product": "globo-good-theme",
-              "items_show": "8"
+              "id_product": "cloudcakes-sunset-sherbet",
+              "items_show": "1"
             }
           },
           "4527df86-98f9-4e5d-82ed-c074fd554aed": {
             "type": "collection_tab",
             "settings": {
               "title": "Title Tabs",
-              "id_product": "cupcakes",
+              "id_product": "cloudcakes-strawberry-cough",
               "items_show": "8"
             }
           }
